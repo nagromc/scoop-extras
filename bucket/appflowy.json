@@ -1,12 +1,12 @@
 {
-    "version": "0.7.2",
+    "version": "0.7.3",
     "description": "An open-source alternative to Notion. You are in charge of your data and customizations.",
     "homepage": "https://www.appflowy.io/",
     "license": "AGPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.7.2/AppFlowy-0.7.2-windows-x86_64.exe",
-            "hash": "fb361e33829307c89459aa7cc7071eb34f5caa6d0a65ad6b34f189c291ff7b6c"
+            "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.7.3/AppFlowy-0.7.3-windows-x86_64.exe",
+            "hash": "d6ce009467888e73338f4a61b5ef7cfdb2104345103263b52fec3ff70822bf41"
         }
     },
     "innosetup": true,
