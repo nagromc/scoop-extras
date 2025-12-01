@@ -1,12 +1,12 @@
 {
-    "version": "2025.7.3",
+    "version": "2025.9.0",
     "description": "A fast, privacy-first API client for REST, GraphQL, SSE, WebSocket, and gRPC.",
     "homepage": "https://yaak.app/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mountain-loop/yaak/releases/download/v2025.7.3/Yaak_2025.7.3_x64-setup.exe#/dl.7z",
-            "hash": "33f2e94d667647c36f4f16a2e09b774444a218d81d45347595f12c2bc39b2bf5"
+            "url": "https://github.com/mountain-loop/yaak/releases/download/v2025.9.0/Yaak_2025.9.0_x64-setup.exe#/dl.7z",
+            "hash": "7dd371cecbb9c97ee840d7f634de143708529c7310c767ca262d1ebf03722f90"
         }
     },
     "post_install": "Remove-Item \"$dir\\`$PLUGINSDIR\", \"$dir\\uninstall.exe\" -Force -Recurse",
