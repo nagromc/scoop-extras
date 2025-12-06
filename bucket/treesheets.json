@@ -1,13 +1,13 @@
 {
-    "version": "2826",
+    "version": "2828",
     "description": "A free form data organizer and a replacement for spreadsheets, mind mappers, outliners, PIMs, text editors and small databases.",
     "homepage": "https://strlen.com/treesheets",
     "license": "ZLIB",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/aardappel/treesheets/releases/download/2826/TreeSheets-2826-win64.zip",
-            "hash": "03def834c40dc4c4848318830d719ad3ab3033e0a789e0280d89f2d82f462c07",
-            "extract_dir": "TreeSheets-2826-win64"
+            "url": "https://github.com/aardappel/treesheets/releases/download/2828/TreeSheets-2828-win64.zip",
+            "hash": "c45baa80b8149fab4a9efe41c024f731c3ce1bae1d1d444c1fa1d4cf59f62f38",
+            "extract_dir": "TreeSheets-2828-win64"
         }
     },
     "pre_install": [
