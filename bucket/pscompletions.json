@@ -1,5 +1,5 @@
 {
-    "version": "5.11.0",
+    "version": "5.6.6",
     "description": "A completion manager for better and simpler use completions in PowerShell.",
     "homepage": "https://pscompletions.abgox.com/",
     "license": {
@@ -10,8 +10,8 @@
         "Use the module by running: 'Import-Module PSCompletions'.",
         "Add it to your $Profile to make it permanent."
     ],
-    "url": "https://cdn.powershellgallery.com/packages/pscompletions.5.11.0.nupkg",
-    "hash": "13b07f858f3b3f480c6beb81f562c746361403a0ea4e6a9781f0c22e0a8eb5ab",
+    "url": "https://cdn.powershellgallery.com/packages/pscompletions.5.6.6.nupkg",
+    "hash": "881f5a77e62712b230cfa6e473f70ef63ad4775f1c90249d0b7ed89b8a63bd8c",
     "pre_install": [
         "Remove-Item \"$dir\\_rels\", \"$dir\\package\", \"$dir\\*Content*.xml\" -Recurse",
         "if (-not (Test-Path -Path \"$persist_dir\\data.json\")) {",
