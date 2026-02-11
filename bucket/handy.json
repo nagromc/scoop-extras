@@ -1,12 +1,12 @@
 {
-    "version": "0.7.3",
+    "version": "0.7.4",
     "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
     "homepage": "https://handy.computer/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/cjpais/Handy/releases/download/v0.7.3/Handy_0.7.3_x64-setup.exe#/dl.7z",
-            "hash": "ed1c25c8af64d7778acd6e3e32c3491d041420eb9a7b8a2df4dfbc4a766d0b83"
+            "url": "https://github.com/cjpais/Handy/releases/download/v0.7.4/Handy_0.7.4_x64-setup.exe#/dl.7z",
+            "hash": "3b7180a1fc7a798f649ac7e647c0b913c5ba65c135063b4eeb3bca0102995d2e"
         }
     },
     "installer": {
